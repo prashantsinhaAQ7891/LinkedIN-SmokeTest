@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36119" started-at="2018-06-28T07:09:08Z" finished-at="2018-06-28T07:09:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36119" started-at="2018-06-28T07:09:08Z" finished-at="2018-06-28T07:09:45Z">
+      <class name="linkedin.LinkedInTest.TC01">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:linkedin.LinkedInTest.TC01@6a41eaa2]" name="openBrowser" is-config="true" duration-ms="12073" started-at="2018-06-28T07:09:09Z" finished-at="2018-06-28T07:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="runTest()[pri:0, instance:linkedin.LinkedInTest.TC01@6a41eaa2]" name="runTest" duration-ms="23996" started-at="2018-06-28T07:09:21Z" finished-at="2018-06-28T07:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:linkedin.LinkedInTest.TC01@6a41eaa2]" name="close" is-config="true" duration-ms="0" started-at="2018-06-28T07:09:45Z" finished-at="2018-06-28T07:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- linkedin.LinkedInTest.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
